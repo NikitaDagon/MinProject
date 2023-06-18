@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "mixitup": "^3.3.1"
+  },
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}
